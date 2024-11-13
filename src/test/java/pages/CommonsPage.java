@@ -22,3 +22,4 @@ public class CommonsPage {
     @FindBy(xpath = "//input[@value='keto']")
     public WebElement vegan;
 }
+// can you choose vegan? is this locator works?
